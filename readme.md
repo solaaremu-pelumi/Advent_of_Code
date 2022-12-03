@@ -1,4 +1,4 @@
-*** Advent of Code Participation ***
+### **Advent of Code Participation**
 
 This repository consists of my submissions for the advent of code. They are grouped per year. 
 
